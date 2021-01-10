@@ -39,7 +39,7 @@ pre = "#"
 url = "pricing"
 weight = 5
 [[Languages.en.menu.main]]
-name = "blog"
+name = "اخبار"
 pre = "#"
 url = "blog"
 weight = 6
