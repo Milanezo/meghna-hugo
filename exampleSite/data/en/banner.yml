@@ -16,4 +16,4 @@ banner:
   button:
     enable: true
     label: توضیحات بیشتر
-    link: "#خدمات"
+    link: "#Services"
