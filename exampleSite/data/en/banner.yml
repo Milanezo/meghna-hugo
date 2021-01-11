@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: ''
+  bg_image: images/backgrounds/bg.jpg
   icon: ''
   title: وبسایت سبک زندگی و مشاوره
   content: مشاور مهارت هاي سبک زندگي سالم، شغلي است در حوزه طب و سلامتی كه شايستگي
