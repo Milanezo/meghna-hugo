@@ -15,5 +15,5 @@ banner:
     تعريف سازمان بهداشت جهاني از سلامت انجام بدهد
   button:
     enable: true
-    label: Explore Us
+    label: توضیحات بیشتر
     link: "#services"
