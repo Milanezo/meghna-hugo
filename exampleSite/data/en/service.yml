@@ -18,10 +18,12 @@ service:
     content: تنوع شغل‌ها بسیار بیشتر از سالهای دور است. پدران ما این همه گزینه برای
       انتخاب شغل نداشتند، از بین این همه گزینه مختلف، کدامیک مناسب حال من است؟ کدام
       شغل می‌تواند رضایت شغلی را برای من به ارمغان آورد؟
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: مشاوره تحصیلی
+    icon: ti-bookmark-alt
+    content: خانواده هایی که فرزندشان درگیر انتخاب رشته و کنکور سراسری است یا فردی
+      که قصد انتخاب رشته یا تغییر رشته را دارد، فرصت رفتن به مراکز مشاوره تحصیلی و
+      انتظار را ندارند. پس بنابراین مشاوره تحصیلی یکی از آسان ترین راه برای مشاوره
+      گرفتن است
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
