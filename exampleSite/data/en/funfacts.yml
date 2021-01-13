@@ -5,7 +5,7 @@ funfacts:
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
   - title: مشاورات انجام شده
-    icon: ti-face-smile
+    icon: ti-check
     count: "68"
   - title: Projects completed
     icon: ti-archive
