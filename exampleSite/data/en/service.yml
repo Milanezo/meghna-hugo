@@ -24,10 +24,13 @@ service:
       که قصد انتخاب رشته یا تغییر رشته را دارد، فرصت رفتن به مراکز مشاوره تحصیلی و
       انتظار را ندارند. پس بنابراین مشاوره تحصیلی یکی از آسان ترین راه برای مشاوره
       گرفتن است
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: " مشاوره خانواده و ازدواج"
+    icon: ti-thought
+    content: " سیستم خانواده از مهم ترین سیستم های جامعه می باشد که بر اساس ازدواج
+      دو جنس مخالف با یکدیگر تشکیل می شود و حفظ و تداوم آن از اهمیت ویژه ای بر خوردار
+      است . همان طور که گفته شد خانواده به عنوان واحد اجتماعی می باشد و این خانواده
+      کانون رشد و تکامل ، التیام و شفا دهندگی است که هم بستری برای شکوفایی و هم فرو
+      پاشی در روابط اعضایش می باشد"
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
