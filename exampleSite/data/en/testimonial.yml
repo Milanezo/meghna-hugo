@@ -18,10 +18,11 @@ testimonial:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
       minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
       aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-  - name: Lemos Kail
+  - name: میلاد سالاری
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    date: 1376/04/28
+    content: |-
+      - برنامه نویس فرانت اند
+      - طراح یوزر اینترفیس
+      - مدیریت محتوای سایت
