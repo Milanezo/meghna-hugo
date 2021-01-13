@@ -7,10 +7,11 @@ service:
     icon: ti-help
     content: روان درمانی بیشتر بر روی فرآیندهای فکری مراجع و نحوه زندگی کردن تمرکز
       دارد
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: مشاوره سازشی یا شخصی
+    icon: ti-bar-chart
+    content: 'منظور از مشاوره سازشی اقداماتی است که یک مشاور انجام می دهد تا موجب
+      از بین رفتن مشکل روانی ایجاد شده در فرد گردد به عبارت دیگر مشاوره سازشی در حکم
+      پیشگیری ثانویه است '
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
