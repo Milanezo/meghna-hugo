@@ -1,6 +1,6 @@
 ---
 team:
-  enable: true
+  enable: false
   title: تیم ما
   team_member:
   - name: میلاد سالاری
