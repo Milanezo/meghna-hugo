@@ -20,7 +20,7 @@ testimonial:
       aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
   - name: Milad Salari
     image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+    image_webp: ''
     date: 1376/04/28
     content: |-
       - Front end Developer
