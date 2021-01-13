@@ -1062,7 +1062,7 @@ a:hover {
 .member-photo .mask {
   background-color: rgba(87, 203, 204, 0.7);
   position: absolute;
-  text-align: center;
+  text-align: right;
   height: 100%;
   width: 100%;
   left: 0;
@@ -1075,7 +1075,7 @@ a:hover {
 }
 
 .member-photo .mask ul {
-  text-align: center;
+  text-align: right;
   position: relative;
   top: 125px;
 }
@@ -1087,7 +1087,7 @@ a:hover {
   font-size: 20px;
   height: 35px;
   line-height: 35px;
-  text-align: center;
+  text-align: right;
   width: 35px;
 }
 
