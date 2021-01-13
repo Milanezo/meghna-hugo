@@ -8,7 +8,7 @@ funfacts:
     icon: ti-check
     count: "68"
   - title: تعداد اخبار
-    icon: ti-archive
+    icon: ti-announcement
     count: "6"
   - title: نظرات مثبت
     icon: ti-thumb-up
