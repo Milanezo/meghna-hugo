@@ -11,13 +11,13 @@ testimonial:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
       minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
       aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-  - name: Mark Dinn
+  - name: Amin Khaki
     image: images/client/client-2.jpg
     image_webp: images/client/client-2.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    date: 1376/04/08
+    content: |
+      Back end Developer
+      Database Developer
   - name: Milad Salari
     image: images/client/client-1.jpg
     image_webp: ''
