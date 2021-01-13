@@ -31,7 +31,9 @@ service:
       است . همان طور که گفته شد خانواده به عنوان واحد اجتماعی می باشد و این خانواده
       کانون رشد و تکامل ، التیام و شفا دهندگی است که هم بستری برای شکوفایی و هم فرو
       پاشی در روابط اعضایش می باشد"
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: مشاوره  اجتماعی
+    icon: ti-world
+    content: |
+      مشکلاتی که افراد در روابط اجتماعی خود دارند باید به نحوه اصولی بررسی و درمان شوند
+      مشاوره افسردگی گام‌ های مختلفی دارد
+      در مرحله اول باید میزان افسردگی افراد مشخص شده و دلایل افسردگی در آنها شناسایی شود
