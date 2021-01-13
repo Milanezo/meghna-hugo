@@ -3,9 +3,8 @@ contact:
   enable: true
   title: تماس با ما
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: " جهت ارتباط با ما از طریق پر کردن فرم و یا برقراری تماس با شماره زیر اقدام
+    کنید"
   contact_list:
   - icon: ti-location-pin
     info: شهرزیبا - بلوار تعاون - خ بهاران - کوچه رحمانیی پور شرقی
