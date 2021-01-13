@@ -13,10 +13,11 @@ service:
     content: 'منظور از مشاوره سازشی اقداماتی است که یک مشاور انجام می دهد تا موجب
       از بین رفتن مشکل روانی ایجاد شده در فرد گردد به عبارت دیگر مشاوره سازشی در حکم
       پیشگیری ثانویه است '
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: مشاوره شغلی
+    icon: ti-pencil-alt
+    content: تنوع شغل‌ها بسیار بیشتر از سالهای دور است. پدران ما این همه گزینه برای
+      انتخاب شغل نداشتند، از بین این همه گزینه مختلف، کدامیک مناسب حال من است؟ کدام
+      شغل می‌تواند رضایت شغلی را برای من به ارمغان آورد؟
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
