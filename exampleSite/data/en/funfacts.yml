@@ -6,7 +6,7 @@ funfacts:
   counter_item:
   - title: مشاورات انجام شده
     icon: ti-check
-    count: ۶۸
+    count: "68"
   - title: تعداد اخبار
     icon: ti-announcement
     count: ۶
