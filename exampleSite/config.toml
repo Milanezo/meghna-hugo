@@ -133,7 +133,7 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
