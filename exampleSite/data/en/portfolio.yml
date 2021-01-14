@@ -6,8 +6,7 @@ portfolio:
   - name: عکس نوشته
     image: images/portfolio/slide1.jpg
     image_webp: ''
-    categories:
-    - design
+    categories: []
     content: 99/10/25
     link: ''
   - name: Sound system
