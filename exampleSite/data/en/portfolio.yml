@@ -33,13 +33,12 @@ portfolio:
     categories: []
     content: 99/10/25
     link: ''
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
-    categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+  - name: عکس نوشته
+    image: images/portfolio/slide6.jpg
+    image_webp: ''
+    categories: []
+    content: 99/10/25
+    link: ''
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
