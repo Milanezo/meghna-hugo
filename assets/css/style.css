@@ -1041,7 +1041,7 @@ a:hover {
 
 @media (max-width: 768px) {
   .member-photo {
-    text-align: center;
+    text-align: right;
   }
 }
 
