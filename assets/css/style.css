@@ -1088,7 +1088,7 @@ a:hover {
   font-size: 20px;
   height: 35px;
   line-height: 35px;
-  text-align: right;
+  text-align: center;
   width: 35px;
 }
 
@@ -1100,10 +1100,12 @@ a:hover {
 
 .member-meta {
   padding: 15px;
+  text-align: center;	
 }
 
 .member-meta h4 {
   margin: 0 0 5px;
+  text-align: center;		
 }
 
 .member-meta span {	
