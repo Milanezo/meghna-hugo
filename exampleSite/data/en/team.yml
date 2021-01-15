@@ -3,12 +3,11 @@ team:
   enable: true
   title: تیم مشاوران
   team_member:
-  - name: Abul Mal Muhit
+  - name: محمد احمدی
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: مشاور تغذیه
+    content: ''
     social:
     - icon: ti-instagram
       link: "#"
