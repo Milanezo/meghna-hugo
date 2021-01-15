@@ -4,6 +4,12 @@ portfolio:
   title: گالری تصاویر
   portfolio_item:
   - name: عکس نوشته
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
+  - name: عکس نوشته
     image: images/portfolio/slide1.jpg
     image_webp: ''
     categories: []
