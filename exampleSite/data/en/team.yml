@@ -17,12 +17,11 @@ team:
       link: "#"
     - icon: ti-google
       link: "#"
-  - name: Frank Miller
+  - name: شایان مقدم
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: Manager
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: مشاوره تحصیلی
+    content: ''
     social:
     - icon: ti-instagram
       link: "#"
