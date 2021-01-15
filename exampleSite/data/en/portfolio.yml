@@ -4,10 +4,10 @@ portfolio:
   title: گالری تصاویر
   portfolio_item:
   - name: عکس نوشته
-    image: images/portfolio/slide7.jpg
+    image: images/portfolio/slide8.jpg
     image_webp: ''
-    categories: []
-    content: 99/10/26
+    categories: ''
+    content: 88/10/26
     link: ''
   - name: عکس نوشته
     image: images/portfolio/slide1.jpg
