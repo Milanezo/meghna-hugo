@@ -1275,6 +1275,7 @@ a:hover {
 .post-meta {
   font-size: 13px;
   color: white;	
+  text-align: right;	
   margin: 20px 0 0;
   padding: 0 20px 10px;
 }
@@ -1308,12 +1309,14 @@ a:hover {
 
 .post-excerpt h3 a {
   color: #000;
+  text-align: right;	
 }
 
 .post-excerpt blockquote {
   line-height: 22px;
   margin: 20px 0;
   font-size: 16px;
+  text-align: right;	
 }
 
 .single-blog {
