@@ -6,7 +6,7 @@
 - id: viewAllPost
   translation: نمایش تمامی اخبار
 - id: share
-  translation: اشتراک گذاری
+  translation: Share
 - id: aboutAuthor
   translation: About author
 - id: authorsPosts
