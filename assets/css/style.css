@@ -1273,9 +1273,9 @@ a:hover {
 }
 
 .post-meta {
-  font-size: 13px;
-  color: white;	
   text-align: right;	
+  font-size: 13px;
+  color: white;		
   margin: 20px 0 0;
   padding: 0 20px 10px;
 }
@@ -1296,7 +1296,7 @@ a:hover {
 
 .post-meta>span:last-child {
   text-align: right;	
-  border-right: 0;
+  
 }
 
 .post-meta>span i {
