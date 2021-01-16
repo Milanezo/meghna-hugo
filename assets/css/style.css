@@ -1272,6 +1272,7 @@ a:hover {
 
 .post-meta {
   font-size: 13px;
+  color: white;	
   margin: 20px 0 0;
   padding: 0 20px 10px;
 }
@@ -1285,6 +1286,7 @@ a:hover {
   border-right: 1px solid #dedede;
   display: inline-block;
   font-size: 13px;
+  text-align: right;	
   margin: 10px 10px 0 0;
   padding-right: 10px;
 }
@@ -1314,12 +1316,14 @@ a:hover {
 
 .single-blog {
   background-color: #fff;
+  text-align: right;	
   margin-bottom: 50px;
   padding: 20px;
 }
 
 .blog-subtitle {
   font-size: 15px;
+  text-align: right;	
   padding-bottom: 10px;
   border-bottom: 1px solid #dedede;
   margin-bottom: 25px;
