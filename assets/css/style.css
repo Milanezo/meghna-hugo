@@ -1300,11 +1300,13 @@ a:hover {
 }
 
 .post-meta>span i {
+  text-align: right;		
   margin-right: 5px;
 }
 
 .post-excerpt {
   text-align: right;	
+  color:white;	
   padding: 0 20px;
   margin-bottom: 60px;
 }
@@ -1324,7 +1326,8 @@ a:hover {
 
 .single-blog {
   background-color: #fff;
-  text-align: right;	
+  text-align: right;
+  color:white;	
   margin-bottom: 50px;
   padding: 20px;
 }
