@@ -1286,15 +1286,16 @@ a:hover {
 
 .post-meta>span {
   color: #666;
+   text-align: right;	
   border-right: 1px solid #dedede;
   display: inline-block;
   font-size: 13px;
-  	
   margin: 10px 10px 0 0;
   padding-right: 10px;
 }
 
 .post-meta>span:last-child {
+  text-align: right;	
   border-right: 0;
 }
 
@@ -1309,6 +1310,7 @@ a:hover {
 }
 
 .post-excerpt h3 a {
+  text-align: right;	
   color: #000;
   text-align: right;	
 }
@@ -1375,6 +1377,7 @@ a:hover {
 }
 
 .comments-section {
+  text-align: right;	
   margin-top: 35px;
 }
 
@@ -1567,7 +1570,10 @@ input#e-mail,
   transition: all 400ms ease-out 0s;
 }
 
-
+.copyright {
+  padding: 20px 0;
+  color: #fff;
+}
 
 .copyright img {
   margin-bottom: 15px;
