@@ -1314,7 +1314,7 @@ a:hover {
 .post-excerpt h3 a {
   text-align: right;	
   color: #000;
-  text-align: right;	
+  
 }
 
 .post-excerpt blockquote {
@@ -1334,7 +1334,8 @@ a:hover {
 
 .blog-subtitle {
   font-size: 15px;
-  text-align: right;	
+  text-align: right;
+  color:white;	
   padding-bottom: 10px;
   border-bottom: 1px solid #dedede;
   margin-bottom: 25px;
@@ -1401,13 +1402,16 @@ a:hover {
 
 .comment-list ul {
   margin-top: 20px;
+   text-align: right;		
 }
 
 .comment-list ul li {
+   text-align: right;		
   margin-bottom: 20px;
 }
 
 .comment-wrap {
+   text-align: right;		
   border: 1px solid #dedede;
   border-radius: 1px;
   margin-left: 20px;
@@ -1483,7 +1487,7 @@ a:hover {
 
 .post-comment {
   background-color: #292f36;
-  ;
+  text-align: right;	
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -1507,6 +1511,7 @@ a:hover {
 }
 
 .post-comment-field {
+  text-align: right;	
   display: block;
   font: inherit;
   padding: 10px;
@@ -1522,7 +1527,7 @@ a:hover {
 }
 
 .post-time {
-  color: #737f8a;
+  color: white;
 }
 
 input#e-mail,
