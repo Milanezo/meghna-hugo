@@ -1,18 +1,11 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
-description : "This is meta description"
+title: نقش تغذیه در سلامتی و رشد بدن
+date: 2021-01-16T11:22:36+03:30
+image_webp: "/images/blog/blog5.jpg"
+image: "/images/blog/blog5.jpg"
+author: ''
+description: ''
+
 ---
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+رشد و سلامت بدن با تغذیه سالم ارتباط مستقیم دارد. تغذیه نه‌تنها بر رشد جسمی و ظاهر انسان تأثیر می‌گذارد، بلکه بر نحوه احساس و برداشت ما از محیط، خلق‌وخو و رفتار ما نیز مؤثر است. اهمیت وجود برخی مواد مغذی برای بدن به‌ویژه ویتامین‌ها، مواد معدنی و پروتئین‌ها، آن اندازه ضروری است که در تغذیه و سلامت سلول‌های مغز دخالت دارند و بر این اساس می‌توان با استفاده از تغذیه مناسب، از بروز برخی نارسایی‌های عصبی و روانی انسان، پیشگیری کرد.  
+تغذیه کامل و کافی، باعث شادابی و تندرستی می‌شود، بر طول عمر مفید انسان می‌افزاید، ناتوانی و بیماری را کاهش می‌دهد، زندگی را در نظر انسان خوشایند، سعادت‌آمیز و رضایت‌بخش جلوه می‌دهد و از پیری زودرس پیشگیری می‌کند. برعکس سوءتغذیه که امروزه، به‌ویژه در میان کشورهای توسعه‌نیافته شایع است، عامل اصلی مرگ‌ومیرها است و بیشتر قربانیان خود را از میان کودکان برمی‌گزیند. گروه وسیعی از مردم جهان نیز باوجودآنکه به غذای نسبتاً کافی دسترسی دارند به دلیل ناآگاهی تغذیه‌ای، به‌نوعی گرفتار سوءتغذیه هستند
