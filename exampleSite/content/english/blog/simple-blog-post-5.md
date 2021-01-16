@@ -1,18 +1,20 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+title: Simple Blog Post
+date: 2020-01-11T00:00:00+03:30
+image_webp: "/images/blog/blog2.jpg"
+image: "/images/blog/blog2.jpg"
+author: مهدی عرفانی
+description: ''
+
 ---
+### مهم ترین وظایف یک متخصص تغذیه خوب چیست؟
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+* **یک مشاوره تغذیه خوب باید توضیحات جامع و کاملی را درباره تغذیه و نحوه** [**_رژیم درمانی_**](https://shadnoush.com/%d8%b1%da%98%db%8c%d9%85-%d8%af%d8%b1%d9%85%d8%a7%d9%86%db%8c/) **به مراجعین ارائه دهد**
+* **نیازهای مراجعین را مشخص نموده و درباره آن ها با او صحبت کند**
+* **یک برنامه غذایی خوب و متنوع برای بیماران خود تنظیم نماید**
+* **میزان اثر بخشی و تاثیرات برنامه غذایی را در بیمار مشخص نماید**
+* **با صحبت کردن با بیمار میزان انگیزه آن ها را افزایش داده و آن ها را برای پیروی از رژیم غذایی تشویق کنند**
+* **مشکلات و هنجاری های تغذیه ای را شناسایی کرده و اقدام به برطرف کردن آن ها کند**
+* **در صورت امکان برنامه های اجرایی جهت رفع مشکلات تغذیه در جامعه تنظیم نماید**
+* **برنامه ها و دستورالعمل هایی برای افزایش ارزش غذایی مواد خوراکی تهیه کند**
+* **درباره جدیدترین و آخرین اخبار مربوط به تغذیه اطلاعات جامعی داشته باشد**
