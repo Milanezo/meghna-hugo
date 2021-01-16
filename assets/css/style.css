@@ -1229,10 +1229,12 @@ a:hover {
 
 .post-block .content {
   padding: 20px;
+  text-align: right;	
 }
 
 .post-block .content h3 {
   margin: 0 0 6px;
+  text-align: right;
   font-size: 20px;
   line-height: 1.5;
   text-transform: capitalize;
@@ -1243,6 +1245,7 @@ a:hover {
 }
 
 .note .excerpt h3 {
+  text-align: right;	
   font-size: 20px;
   line-height: 1.5;
   text-transform: capitalize;
