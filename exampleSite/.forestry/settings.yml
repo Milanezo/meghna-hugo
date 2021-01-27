@@ -39,7 +39,7 @@ sections:
   label: Configuration
 - type: directory
   path: exampleSite
-  label: Configuration
+  label: پیکربندی
   create: all
   match: "*.toml"
   new_doc_ext: toml
