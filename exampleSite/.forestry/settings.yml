@@ -32,7 +32,7 @@ sections:
   match: "**/*"
 - type: directory
   path: exampleSite/i18n
-  label: i18n
+  label: لینک ها
   create: documents
   match: "**/*"
 - type: heading
