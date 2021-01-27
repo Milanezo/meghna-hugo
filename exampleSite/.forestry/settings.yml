@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: بخش اخبار
 - type: directory
   path: exampleSite/content/english/blog
-  label: Post (en)
+  label: اخبار
   create: documents
   match: "**/*"
   new_doc_ext: md
